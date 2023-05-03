@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Papeleria del Profe
+		</title>
+		<link rel="shortcut icon" href="../logo.png">
+		<link rel="stylesheet" href="../css/estilo.css">
+	</head>
+	
+	<body>
+		<div id="general">
+			<div id="menu">
+				
+			</div>
+			<div id="titulo"> 
+				Papalería del profe
+			</div>
+			<div id="body"> 
+        
+			</div>
+			<div id="pie"> 
+        
+			</div>
+		</div>
+	</body>
